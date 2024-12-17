@@ -15,9 +15,9 @@ Tandoorimarinoitu kanaa tikka-inkivääri-chili-sipuli-paprika-kermakastikkeessa
 Tandoori-marinated chicken tikka in a ginger, chili, onion, paprika, and cream sauce.
 ```
 
-ChatGPT's tranlsation of the recipe states that __Kukhurako__ is a word from Nepalese, not Finnish. In the Nepali language, "kukhura" (कुखुरा) means chicken, and the suffix "-ko" is possessive, so "kukhurako" translates to "of chicken" or "chicken's". __Shiraz__ is an ancient city in Iran (Persia), known historically for its rich cultural heritage, art, poetry, and cuisine.
+ChatGPT's translation of the recipe states that __Kukhurako__ is a word from Nepalese, not Finnish. In the Nepali language, "kukhura" (कुखुरा) means chicken, and the suffix "-ko" is possessive, so "kukhurako" translates to "of chicken" or "chicken's". __Shiraz__ is an ancient city in Iran (Persia), known historically for its rich cultural heritage, art, poetry, and cuisine.
 
-I had originaly tried finding similar Chicken Tikka Masala recipes that I thought were similar to Himshikar's Kukhurako Shiraz:
+I had originaly tried finding Chicken Tikka Masala recipes that I thought were similar to Himshikar's Kukhurako Shiraz:
 - Attempt #1: [Chef John's Chicken Tikka Masala](https://www.allrecipes.com/recipe/239867/chef-johns-chicken-tikka-masala/): This is a good recipe (rating 8/10) but due to the coconut milk substitute over cream, it isn't very similar to Kukhurako Shiraz.
 - Attempt #2: [Instant Pot Chicken Tikka Masala](https://pipingpotcurry.com/instant-pot-chicken-tikka-masala/): This recipe wasn't that great (rating 5/10) likely due to me only marinating for 1 hour instead of 24 hours and likely overcooking the chicken in the pressure cooker. Also the flavors were far from Kukhurako Shiraz profile.
 - Attempt #3: This recipe (rating 9/10), not exaclty like the Kukhurako Shiraz, mostly due to the potent (but delicious) mustard oil.
