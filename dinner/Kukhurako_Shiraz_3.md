@@ -83,6 +83,8 @@ After long discussion with ChatGPT I came up with this __Kukhurako Shiraz__ reci
     - Cooking it too early can make the sauce taste heavy or muddy, masking the bright and fresh flavors of ginger, garlic, and tomatoes.
 
 I chose Garam Masala over Tandoori Masala and Tikka Masala, here's the comparison:
+
+
 | **Blend**              | **Key Ingredients**                              | **Flavor Profile**       | **Best Use**                    |
 |-------------------------|-------------------------------------------------|--------------------------|---------------------------------|
 | [**Tandoori Masala**](https://www.amazon.com/Rani-Tandoori-Masala-Natural-Indian/dp/B077KHB3BH)     | Cumin, Coriander, Cinnamon, Mango Powder, Dry Ginger, Turmeric, Chillies, Garlic, Cloves, Mace, Paprika (11-Spice Blend) | Tangy, earthy, slightly smoky | Marinades for grilling (tandoori-style) |
