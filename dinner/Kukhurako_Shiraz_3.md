@@ -46,7 +46,7 @@ After long discussion with ChatGPT I came up with this __Kukhurako Shiraz__ reci
 - 2 tbsp [mustard oil](https://www.amazon.com/Rani-Mustard-NON-GMO-Friendly-Natural/dp/B08W4Q77S6?crid=24X7M6AZU5JOO&dib=eyJ2IjoiMSJ9.SbgYQnPA0ugCezM1l4HtKXL6eqwySPiObnBUeBqgOZFdxMKb9VDZ5bt-5SmkdPpFLSNDoq4io7aQZI_tDHdUuYL_-yGpXT74z5uBdFd5Xs4F7zylAn3FIQKkUpu04A6mUtZauxvuqkHDnxWPNaZB5LD17Spl26vNDTHovlqEiYssriz5_Ya--UduDYeICDsumj0T-TMGtOV4JcHOe9t5bh4NHWVc8HVnHAc71CwlEo0xQQvV45ob5aNx1oBkorapoQhea5_tBdEGNG1xb0bLI4WnXOcsDbIkxJuIMWbSdOw.c1lQd7-mL7D81_xH5gy77-ydDUdYkN7xbw4xxwGwMFY&dib_tag=se&keywords=mustard+oil&qid=1734403775&sprefix=mustard+oi%2Caps%2C225&sr=8-5) (or neutral oil)
 
 ### Shiraz Sauce:
-- 4 tbsp ghee or neutral oil (you can make ghee from butter at home, watch this video: [How to Make Ghee | Chef Jean-Pierre](https://www.youtube.com/watch?v=sGFtNRKiHS4))
+- 4 tbsp ghee or neutral oil (you can make ghee from butter at home, watch this video: [How to Make Ghee - Chef Jean-Pierre](https://www.youtube.com/watch?v=sGFtNRKiHS4))
 - 2 large onions, finely chopped
 - 2 tbsp ginger-garlic paste
 - 4 medium ripe tomatoes, pureed (or 1 1/2 cups canned tomato puree)
