@@ -9,4 +9,4 @@
 ## Dinner
 - [Kukhurako Shiraz #3](dinner/Kukhurako_Shiraz_3.md)
 - [Pizza Dough](pizza_dough.md)
-- [Butternut Squash Coconut Soup][butternut_coconut_soup.md]
+- [Butternut Squash Coconut Soup](butternut_coconut_soup.md)
