@@ -1,5 +1,9 @@
 # Farro/Quinoa Chickpea Salad
 
+<div style="text-align: center;">
+    <img src="lunch/images/farro_chickpea_salad.jpg" alt="Image Description" width="auto" height="250">
+</div>
+
 ## Ingrediants
 - 3 cups of cooekd farro or quinoa
 - 2 cups chickpeas (cooked, easiest from a can)
