@@ -2,6 +2,7 @@
 
 <div style="text-align: center;">
     <img src="dinner/images/butternut_squash_soup_1.jpg" alt="Image Description" width="auto" height="250">
+    <img src="dinner/images/butternut_squash_soup_2.jpg" alt="Image Description" width="auto" height="250">
 </div>
 
 - **Yield:** Big batch recipe! 12-14 hearty servings, about 1 gallon of soup!
