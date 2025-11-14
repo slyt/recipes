@@ -26,3 +26,5 @@ This recipe is inspired by Double Take's Scotch Bonnet Mustard hotsauce. It is a
 1. Taste: add sugar for balance, vinegar for sharpness, or citrus for brightness.
 1. Bottle into sterilized glass. Refrigerated: 2–3 months.
 
+Note: It tastes best after about a week in the fridge, once the flavors have had a chance to fully mature and stabilize.
+
