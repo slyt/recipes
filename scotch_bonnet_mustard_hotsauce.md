@@ -1,6 +1,6 @@
 # Scotch Bonnet Mustard Hotsauce
 
-This recipe is inspired by Double Take's Scotch Bonnet Mustard hotsauce. It is a perfect sauce breakfast tacos, burritos, pizza, burgers, and hotdogs.
+This recipe is inspired by Double Take's Scotch Bonnet Mustard hotsauce. It is a perfect sauce for breakfast tacos, burritos, pizza, burgers, and hotdogs.
 
 🔥🌶️ Flavor profile: tangy fruity, mustard-forward, citrus, medium sweetness, with just the right kick.
 
